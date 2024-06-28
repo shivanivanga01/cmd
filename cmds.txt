@@ -1,0 +1,5 @@
+mkdir cmds
+
+cd cmds
+
+git init
